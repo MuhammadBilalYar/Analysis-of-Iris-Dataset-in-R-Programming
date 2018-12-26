@@ -37,6 +37,8 @@ Map pairwise correlation (150*150) to 'circ2' layout base graph
 ```
 bmgraph(pwcor, layout = "circ2", scope = scp3, main = "Iris correlation using bmgraph")
 ```
+![Graph](https://github.com/MuhammadBilalYar/Analysis-of-Iris-Dataset-in-R-Programming/blob/master/Graph.png)
+
 calculate mean, median and summary
 ```
 mean(pwcor)
